@@ -1,28 +1,5 @@
 <a href="https://app.daily.dev/Gabry022003"><img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=yq8" width="400" alt="Gabriele's Dev Card"/></a>
 <!--<a href="https://app.daily.dev/Gabry022003"><img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=jq4" width="400" alt="Gabriele's Dev Card"/></a>-->
 
-# Gabriele - Hacker Etico, Sviluppatore &&  Appassionato di CTF
 
-Ciao, sono Gabriele, un hacker etico, sviluppatore e appassionato di CTF. Ho partecipato a diverse competizioni di hacking tra cui la CyberChallenge organizzata dal CINI Lab, mettendo alla prova le mie abilità e acquisendo una grande conoscenza delle tecnologie, dei protocolli e dei linguaggi di programmazione.
-
-Ho una vasta esperienza in diverse tecnologie, come il web development, lo sviluppo mobile. In particolare, ho una grande conoscenza di Python, Java, SQL, C, C++ e Docker.
-
-La mia passione per la sicurezza informatica mi ha spinto a partecipare alle CTF, dove ho avuto modo di mettere alla prova le mie abilità e di apprendere nuove tecniche per identificare e risolvere le vulnerabilità dei sistemi informatici.
-
-Sono sempre alla ricerca di nuove sfide e di progetti stimolanti. Se hai bisogno di un esperto in sicurezza informatica, di un professionista sviluppatore o di un appassionato di CTF per il tuo progetto, non esitare a contattarmi. Sono disponibile per consulenze, collaborazioni e progetti a lungo termine.
-
-
-## Interessi
-
-- Hacking Etico
-- Sicurezza Informatica
-- Sviluppo Web
-- Programmazione Competitiva
-- CTF
-
-## Contatti
-
-- [Profilo GitHub](https://github.com/Gabry022003)
-- [LinkedIn](https://www.linkedin.com/in/gabriele-giaccari-83589b243/)
-- [Sito Web](https://www.mysite.com)
-
+<h1>Gabriele - Hacker Etico, Sviluppatore e Appassionato di CTF</h1> <p>Ciao, sono Gabriele, un <b>hacker etico</b>, <b>sviluppatore</b> e appassionato di <b>CTF</b>. Ho partecipato a diverse competizioni di hacking, tra cui la <b>CyberChallenge</b> organizzata dal <b>CINI Lab</b>, mettendo alla prova le mie abilità e acquisendo una grande conoscenza delle tecnologie, dei protocolli e dei linguaggi di programmazione.</p> <p>Ho una vasta esperienza in diverse tecnologie, come il <b>web development</b>, lo <b>sviluppo mobile</b> e la <b>grafica</b>. Ho creato diverse applicazioni e piattaforme di successo, con particolare attenzione all'usabilità e all'estetica.</p> <p>In particolare, ho una grande conoscenza di <b>Python</b>, <b>Java</b>, <b>SQL</b>, <b>C</b>, <b>C++</b> e <b>Docker</b>, ma sono sempre alla ricerca di nuove tecnologie e di nuovi approcci per migliorare le mie competenze.</p> <p>La mia passione per la sicurezza informatica mi ha spinto a partecipare alle CTF, dove ho avuto modo di mettere alla prova le mie abilità e di apprendere nuove tecniche per identificare e risolvere le vulnerabilità dei sistemi informatici.</p> <p>Sono sempre alla ricerca di nuove sfide e di progetti stimolanti. Se hai bisogno di un esperto in sicurezza informatica, di un professionista sviluppatore o di un appassionato di CTF per il tuo progetto, non esitare a contattarmi. Sono disponibile per consulenze, collaborazioni e progetti a lungo termine.</p> <p>Puoi contattarmi su:</p> <ul> <li>Email: gabriele@email.com</li> <li>GitHub: <a href="https://github.com/gabriele">https://github.com/gabriele</a></li> <li>LinkedIn: <a href="https://www.linkedin.com/in/gabriele/">https://www.linkedin.com/in/gabriele/</a></li> </ul>
