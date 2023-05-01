@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/Gabry022003"><img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=2f7" width="400" alt="Gabriele's Dev Card"/></a>
 <!--<a href="https://app.daily.dev/Gabry022003"><img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=jq4" width="400" alt="Gabriele's Dev Card"/></a>-->
 
-# Gabriele - Hacker Etico, Sviluppatore &&  Appassionato di CTF
+# Gabriele - Ethical Hacker, Developer Σ  CTF Enthusiast
 
 Ciao, sono Gabriele, un hacker etico, sviluppatore e appassionato di CTF. Ho partecipato a diverse competizioni di hacking tra cui la CyberChallenge organizzata dal CINI Lab, mettendo alla prova le mie abilità e acquisendo una grande conoscenza delle tecnologie, dei protocolli e dei linguaggi di programmazione.
 
@@ -14,11 +14,11 @@ Sono sempre alla ricerca di nuove sfide e di progetti stimolanti. Se hai bisogno
 
 ## Interessi
 
-- Hacking Etico
-- Sicurezza Informatica
-- Sviluppo Web
-- Programmazione Competitiva
-- CTF
+- Hacking Etico: Ethical Hacking
+- Sicurezza Informatica: Computer Security
+- Sviluppo Web: Web Development
+- Programmazione Competitiva: Competitive Programming
+- CTF: Capture The Flag
 
 ## Contatti
 
