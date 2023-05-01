@@ -15,5 +15,5 @@ Ciao, sono Gabriele! Sono uno sviluppatore appassionato di sicurezza informatica
 ## Contatti
 
 - [Profilo GitHub](https://github.com/Gabry022003)
--[LinkedIn]([https://www.linkedin.com/in/gabriele-m](https://www.linkedin.com/in/gabriele-m/](https://www.linkedin.com/in/gabriele-giaccari-83589b243)/)
+-[LinkedIn]([https://www.linkedin.com/in/g](https://www.linkedin.com/in/gabriele-m/](https://www.linkedin.com/in/gabriele-giaccari-83589b243)/)
 - [Sito Web](https://www.mysite.com)
