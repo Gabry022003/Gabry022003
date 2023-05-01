@@ -11,7 +11,7 @@ Ho una vasta esperienza in diverse tecnologie, come il web development, lo svilu
 La mia passione per la sicurezza informatica mi ha spinto a partecipare alle CTF, dove ho avuto modo di mettere alla prova le mie abilità e di apprendere nuove tecniche per identificare e risolvere le vulnerabilità dei sistemi informatici.
 
 Sono sempre alla ricerca di nuove sfide e di progetti stimolanti. Se hai bisogno di un esperto in sicurezza informatica, di un professionista sviluppatore o di un appassionato di CTF per il tuo progetto, non esitare a contattarmi. Sono disponibile per consulenze, collaborazioni e progetti a lungo termine.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hi, I'm Gabriele, an ethical hacker, developer, and CTF enthusiast. I have participated in various hacking competitions, including the CyberChallenge organized by CINI Lab, testing my skills and acquiring extensive knowledge of technologies, protocols, and programming languages.
 
 I have broad experience in different technologies such as web development and mobile development. In particular, I have extensive knowledge of Python, Java, SQL, C, C++, and Docker.
