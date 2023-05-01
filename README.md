@@ -12,6 +12,16 @@ La mia passione per la sicurezza informatica mi ha spinto a partecipare alle CTF
 
 Sono sempre alla ricerca di nuove sfide e di progetti stimolanti. Se hai bisogno di un esperto in sicurezza informatica, di un professionista sviluppatore o di un appassionato di CTF per il tuo progetto, non esitare a contattarmi. Sono disponibile per consulenze, collaborazioni e progetti a lungo termine.
 
+##Translation
+
+Hi, I'm Gabriele, an ethical hacker, developer, and CTF enthusiast. I have participated in various hacking competitions, including the CyberChallenge organized by CINI Lab, testing my skills and acquiring extensive knowledge of technologies, protocols, and programming languages.
+
+I have broad experience in different technologies such as web development and mobile development. In particular, I have extensive knowledge of Python, Java, SQL, C, C++, and Docker.
+
+My passion for computer security has driven me to participate in CTFs, where I have had the opportunity to test my skills and learn new techniques for identifying and resolving vulnerabilities in computer systems.
+
+I am always looking for new challenges and exciting projects. If you need an expert in computer security, a professional developer, or a CTF enthusiast for your project, feel free to contact me. I am available for consultations, collaborations, and long-term projects.
+
 
 ## Interessi
 
