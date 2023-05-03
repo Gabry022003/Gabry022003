@@ -4,7 +4,7 @@
 
 # Gabriele ↣ Ethical Hacker, Developer Σ  CTF Enthusiast
 
-Ciao, sono Gabriele, un hacker etico, sviluppatore e appassionato di CTF. Ho partecipato a diverse competizioni di hacking tra cui la CyberChallenge organizzata dal CINI Lab, mettendo alla prova le mie abilità e acquisendo una grande conoscenza delle tecnologie, dei protocolli e dei linguaggi di programmazione.
+Ciao, sono Gabriele, un hacker etico, sviluppatore e appassionato di CTF. Ho partecipato a diverse competizioni di hacking, ho seguito il training CyberChallenge organizzata dal CINI Lab, mettendo alla prova le mie abilità e acquisendo una grande conoscenza delle tecnologie, dei protocolli e dei linguaggi di programmazione.
 
 Ho una vasta esperienza in diverse tecnologie, come il web development, lo sviluppo mobile. In particolare, ho una grande conoscenza di Python, Java, SQL, C, C++ e Docker.
 
@@ -12,7 +12,7 @@ La mia passione per la sicurezza informatica mi ha spinto a partecipare alle CTF
 
 Sono sempre alla ricerca di nuove sfide e di progetti stimolanti. Se hai bisogno di un esperto in sicurezza informatica, di un professionista sviluppatore o di un appassionato di CTF per il tuo progetto, non esitare a contattarmi. Sono disponibile per consulenze, collaborazioni e progetti a lungo termine.
 
-Hi, I'm Gabriele, an ethical hacker, developer, and CTF enthusiast. I have participated in various hacking competitions, including the CyberChallenge organized by CINI Lab, testing my skills and acquiring extensive knowledge of technologies, protocols, and programming languages.
+Hi, I'm Gabriele, an ethical hacker, developer, and CTF enthusiast. I have participated in various hacking competitions,i followed the CyberChallenge training organized by CINI Lab, testing my skills and acquiring extensive knowledge of technologies, protocols, and programming languages.
 
 I have broad experience in different technologies such as web development and mobile development. In particular, I have extensive knowledge of Python, Java, SQL, C, C++, and Docker.
 
