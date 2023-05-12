@@ -35,8 +35,3 @@ I am always looking for new challenges and exciting projects. If you need an exp
 - [Profilo GitHub](https://github.com/Gabry022003)
 - [Sito Web](https://my-site)
 
-<!-- Your Github stats -->
-[![Github stats](https://github-readme-stats.vercel.app/api?username={Gabry022003}&show_icons=true&count_private=true)](https://github.com/{Gabry022003})
-<!-- Your Top Langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Gabry022003}&langs_count=10&layout=compact)](https://github.com/{Gabry022003})
-
