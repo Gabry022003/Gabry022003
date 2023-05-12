@@ -34,18 +34,4 @@ I am always looking for new challenges and exciting projects. If you need an exp
 - [Profilo GitHub](https://github.com/Gabry022003)
 - [Sito Web](https://my-site)
 
-https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
 
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-
-https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white
-
-https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00
-
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Gabry022003}
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={Gabry022003}
