@@ -33,3 +33,4 @@ I am always looking for new challenges and exciting projects. If you need an exp
 
 - [Profilo GitHub](https://github.com/Gabry022003)
 - [Sito Web](https://my-site)
+<img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;">
