@@ -19,8 +19,6 @@
   <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </p>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a>
-
 
 # Gabriele ↣ Ethical Hacker, Developer Σ  CTF Enthusiast
 
@@ -53,4 +51,10 @@ I am always looking for new challenges and exciting projects. If you need an exp
 
 - [Profilo GitHub](https://github.com/Gabry022003)
 - [Sito Web](https://my-site)
+
+<!-- Inizio sezione statistiche di streak di GitHub -->
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical" alt="GitHub Streak" /></a>
+</p>
+<!-- Fine sezione statistiche di streak di GitHub -->
 
