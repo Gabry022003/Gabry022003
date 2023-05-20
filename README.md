@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username={Gabry022003}" alt="GitHub Trophies" /></a>
   <a href="https://www.hackthebox.eu/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/></a>
   <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
@@ -18,7 +19,6 @@
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
   <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://cyberchallenge.it/"><img src="https://img.shields.io/badge/CyberChallenge-0E7FB8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEwLjQ5NCAwQzQuNjk3IDAgMCA0LjY5NyAwIDEwLjQ5NCAwIDE0LjUzIDUuMjQ1IDIxLjUzNyAxMiAyMy4xMjVsLjAwMy0yLjIzMyA1LjI0OC0xLjM3N3YtLjAwMWwtMy4xMTItMi4xOTggMS`.2.7NEM3LjQ5NyA3LjQ5NyAwIDAgMCA2IDcuNDk3IDcuNDk3IDcuNDk3IDAgMCAwIDEzLjUwNiAxNSBsMy4xMTItMi4xOTgtMS4yNzUtLjg5OS0yLjYxIDIuMTIwLjAwMyAyLjIzMyA2LjQ2Ny0xLjU5M0E3LjQ5NyA3LjQ5NyAwIDAgMCAxMy41MDYgMHoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4K" /></a>
 </p>
 
 # Gabriele ↣ Ethical Hacker, Developer Σ  CTF Enthusiast
