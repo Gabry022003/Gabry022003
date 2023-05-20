@@ -18,8 +18,9 @@
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
   <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a>
 </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a>
+
 
 # Gabriele ↣ Ethical Hacker, Developer Σ  CTF Enthusiast
 
