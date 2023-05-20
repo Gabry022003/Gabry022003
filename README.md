@@ -54,12 +54,23 @@ I am always looking for new challenges and exciting projects. If you need an exp
 
 ---
 
+<h2 align="center">GitHub Trophies</h2>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a>
 </p>
 
 ---
 
+<h2 align="center">GitHub Streak</h2>
+
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical" alt="GitHub Streak" /></a>
 </p>
+
+---
+
+<h2 align="center">Lingue più utilizzate su GitHub</h2>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabry022003&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabry022003&theme=radicalEcco il codice HTML aggiornato con la sezione delle lingue più utilizzate su GitHub:
