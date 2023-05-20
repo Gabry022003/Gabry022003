@@ -52,9 +52,14 @@ I am always looking for new challenges and exciting projects. If you need an exp
 - [Profilo GitHub](https://github.com/Gabry022003)
 - [Sito Web](https://my-site)
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a> 
- 
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical" alt="GitHub Streak" /></a>
 </p>
-
