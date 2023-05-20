@@ -1,4 +1,6 @@
 <!--<a href="https://app.daily.dev/Gabry022003"><img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/></a>-->
+
+<!--Allineamento Card-->
 <p align="center">
   <a href="https://app.daily.dev/Gabry022003">
     <img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/>
@@ -17,9 +19,6 @@
   <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </p>
-
-
-<!--<a href="https://app.daily.dev/Gabry022003"><img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=jq4" width="400" alt="Gabriele's Dev Card"/></a>-->
 
 # Gabriele ↣ Ethical Hacker, Developer Σ  CTF Enthusiast
 
