@@ -122,5 +122,5 @@ I am always looking for new challenges and exciting projects. If you need an exp
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="Il README.md con la sezione "Skills" con le icone delle tecnologie richieste sarebbe il seguente:
+    </p>
 
