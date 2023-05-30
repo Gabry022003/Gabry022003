@@ -76,7 +76,8 @@ I am always looking for new challenges and exciting projects. If you need an exp
 <h2 align="center"> 🔥 GitHub Streak</h2>
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 ---
