@@ -50,7 +50,7 @@ My passion for computer security has driven me to participate in CTFs, where I h
 
 I am always looking for new challenges and exciting projects. If you need an expert in computer security, a professional developer, or a CTF enthusiast for your project, feel free to contact me. I am available for consultations, collaborations, and long-term projects.
 
-## Interessi
+## Interessi 👨‍💻
 
 - Hacking Etico: Ethical Hacking
 - Sicurezza Informatica: Computer Security
@@ -58,14 +58,14 @@ I am always looking for new challenges and exciting projects. If you need an exp
 - Programmazione Competitiva: Competitive Programming
 - CTF: Capture The Flag
 
-## Contatti
+## Contatti 📟
 
 - [Profilo GitHub](https://github.com/Gabry022003)
 - [Sito Web](https://my-site)
 
 ---
 
-<h2 align="center">GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a>
@@ -73,7 +73,7 @@ I am always looking for new challenges and exciting projects. If you need an exp
 
 ---
 
-<h2 align="center">GitHub Streak</h2>
+<h2 align="center"> 🔥 GitHub Streak</h2>
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical" alt="GitHub Streak" /></a>
@@ -81,7 +81,7 @@ I am always looking for new challenges and exciting projects. If you need an exp
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabry022003&show_icons=true&locale=en&theme=radical" alt="gabry022003" />
 </div>
