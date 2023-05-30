@@ -12,11 +12,6 @@
 <a href="https://app.daily.dev/Gabry022003">
 <img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/>-->
 
-<div style="background-image: url('https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2023/01/crittografia.jpg'); background-size: cover; background-position: center; width: 100%; height: 300px; border-radius: 10px;"></div>
-<p align="center">
-  <img src="https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2023/01/crittografia.jpg" width="200" style="border-radius: 50%;" alt="Profilo">
-</p>
-
 <p align="center">
   <a href="https://www.hackthebox.eu/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/></a>
   <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></a>
