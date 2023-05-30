@@ -10,7 +10,9 @@
 
 <!-- PRIMOTEST
 <a href="https://app.daily.dev/Gabry022003">
-<img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/>-->
+<img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/>
+-->
+
 
 <p align="center">
   <a href="https://www.hackthebox.eu/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/></a>
