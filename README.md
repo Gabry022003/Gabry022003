@@ -1,5 +1,5 @@
 <!--<a href="https://app.daily.dev/Gabry022003"><img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/></a>-->
-![testo alternativo dell'immagine](percorso/immagine.jpg)
+![testo alternativo dell'immagine](https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2023/01/crittografia.jpg)
 <!--Allineamento Card-->
 <p align="center">
   <a href="https://app.daily.dev/Gabry022003">
