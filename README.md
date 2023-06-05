@@ -98,7 +98,8 @@ I am always looking for new challenges and exciting projects. If you need an exp
 
 
 
-<a href="https://www.marvel.com/characters/venom-eddie-brock"><img src="https://img.shields.io/badge/Venom-Marvel-#363636?style=for-the-badge&logo=Marvel&logoColor=red"/></a>
+
+<a href="https://www.marvel.com/characters/venom-eddie-brock"><img src="https://img.shields.io/badge/Venom-Marvel-DC143C?style=for-the-badge&logo=Marvel&logoColor=white"/></a>
 
 
 
