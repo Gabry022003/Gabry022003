@@ -104,4 +104,6 @@ I am always looking for new challenges and exciting projects. If you need an exp
 ---
 <h2 align="center"> 🔥 Hack </h2>
 
-![Esempio di GIF](https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif)
+<p align="center">
+  <img src="https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif" width="100" alt="Esempio di GIF" />
+</p>
