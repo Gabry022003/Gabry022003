@@ -106,5 +106,5 @@ I am always looking for new challenges and exciting projects. If you need an exp
 <h2 align="center"> 🎞️ GIF </h2>
 
 <p align="center">
-  <img src="https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif" width="150" alt="Esempio di GIF" />
+  <img src="https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif" width="170" alt="Esempio di GIF" />
 </p>
