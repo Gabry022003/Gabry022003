@@ -14,6 +14,8 @@
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gabry022003&color=0&icon=2&countColorcountColor&countBG=%23FF0000&theme=radical" alt="VisitCount"></a>
 </div>
 
+<script type="text/javascript">document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
+
 <!-- PRIMOTEST
 <a href="https://app.daily.dev/Gabry022003">
 <img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/>
