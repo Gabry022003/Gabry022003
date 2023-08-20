@@ -38,6 +38,9 @@
   <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </p>
+<p align="center">
+  <img src="https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif" width="100" alt="Esempio di GIF" />
+</p>
 
 # Gabriele ↣ Ethical Hacker, Developer Σ CTF Enthusiast
 
