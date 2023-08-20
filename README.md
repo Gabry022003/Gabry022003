@@ -3,6 +3,9 @@
 
 <!--Allineamento Card-->
 
+
+![Esempio di GIF](https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif)
+
 <p align="center">
 <a href="https://app.daily.dev/Gabry022003">
   <img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=g7s" width="400" alt="Gabriele's Dev Card"/></a>
