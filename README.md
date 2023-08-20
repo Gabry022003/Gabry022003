@@ -2,16 +2,21 @@
 <!-- ![testo alternativo dell'immagine](https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2023/01/crittografia.jpg)-->
 
 <!--Allineamento Card-->
+<p align="center">
+  <img src="https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif" width="400" alt="Esempio di GIF" />
+  <a href="https://app.daily.dev/Gabry022003">
+    <img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=g7s" width="400" alt="Gabriele's Dev Card" />
+  </a>
+</p>
 
-
-![Esempio di GIF](https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif)
+<!-- ![Esempio di GIF](https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif)
 
 <p align="center">
 <a href="https://app.daily.dev/Gabry022003">
   <img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=g7s" width="400" alt="Gabriele's Dev Card"/></a>
   </a>
 </p>
-
+-->
 <!--Contatore-->
 <div align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gabry022003&color=0&icon=2&countColorcountColor&countBG=%23FF0000&theme=radical" alt="VisitCount"></a>
