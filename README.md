@@ -61,7 +61,9 @@ My passion for computer security has driven me to participate in CTFs, where I h
 I am always looking for new challenges and exciting projects. If you need an expert in computer security, a professional developer, or a CTF enthusiast for your project, feel free to contact me. I am available for consultations, collaborations, and long-term projects.
 
 ## Interessi 👨‍💻
-
+<p align="right">
+  <img src="https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif" width="100" alt="Esempio di GIF" />
+</p>
 - Hacking Etico: Ethical Hacking
 - Sicurezza Informatica: Computer Security
 - Sviluppo Web: Web Development
