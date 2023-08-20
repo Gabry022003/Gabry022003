@@ -66,7 +66,7 @@ I am always looking for new challenges and exciting projects. If you need an exp
 - Programmazione Competitiva: Competitive Programming
 - CTF: Capture The Flag
 
-## Contatti 📟
+## 📟 Contatti 📟
 
 - [Profilo GitHub](https://github.com/Gabry022003)
 - [Sito Web](https://my-site)
