@@ -115,7 +115,8 @@ I am always looking for new challenges and exciting projects. If you need an exp
 </p>
 
 ---
-<h2 align="center"> 🎞️ Snake: </h2>
+<h2 align="center"> 😂 Random Dev Meme: </h2>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Gabry022003/Gabry022003/output/snake.svg" alt="Snake animation" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 </p>
+
