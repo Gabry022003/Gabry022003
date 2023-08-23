@@ -20,6 +20,11 @@
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gabry022003&color=0&icon=2&countColorcountColor&countBG=%23FF0000&theme=radical" alt="VisitCount"></a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabry022003.Gabry022003&"  />
+</div>
+
+
 
 <!-- PRIMOTEST
 <a href="https://app.daily.dev/Gabry022003">
@@ -107,4 +112,10 @@ I am always looking for new challenges and exciting projects. If you need an exp
 
 <p align="center">
   <img src="https://github.com/Gabry022003/NULL/blob/main/ee.gif" width="180" alt="GIF" />
+</p>
+
+---
+<h2 align="center"> 🎞️ Snake: </h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Gabry022003/Gabry022003/output/snake.svg" alt="Snake animation" />
 </p>
