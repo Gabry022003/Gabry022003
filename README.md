@@ -115,7 +115,7 @@ I am always looking for new challenges and exciting projects. If you need an exp
 </p>
 
 ---
-<h2 align="center"> 😂 Random Dev Meme: </h2>
+<h2 align="center"> 🤯 Dev Meme: </h2>
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 </p>
