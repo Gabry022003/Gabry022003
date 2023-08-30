@@ -124,10 +124,14 @@ I am always looking for new challenges and exciting projects. If you need an exp
 <h2 align="center"> 🐍 Snake: </h2>
 
 <p align="center">
-  <img src="https://github.com/Gabry022003/NULL2/blob/main/snake.svg" width="5000" alt="SVG" />
+  
+  <a href="https://github.com/Gabry022003/NULL2">
+    <img src="https://github.com/Gabry022003/NULL2/blob/main/snake.svg" width="500" alt="SVG" />
+  </a>
+  <br />
+  generated with <a href="https://github.com/Platane/snk">Platane/snk</a>
 </p>
-generated with [Platane/snk] (https://github.com/Platane/snk)
-[Profilo GitHub](https://github.com/Gabry022003)
+
 
 
 
