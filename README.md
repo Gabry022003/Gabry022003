@@ -124,7 +124,7 @@ I am always looking for new challenges and exciting projects. If you need an exp
 <h2 align="center"> 🎞️ Svg: </h2>
 
 <p align="center">
-  <img src="https://github.com/Gabry022003/NULL2/blob/main/github-user-contribution.svg" width="5400" alt="SVG" />
+  <img src="https://github.com/Gabry022003/NULL2/blob/main/github-user-contribution.svg" width="5000" alt="SVG" />
 </p>
 
 
