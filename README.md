@@ -125,8 +125,8 @@ I am always looking for new challenges and exciting projects. If you need an exp
 
 <p align="center">
   <img src="https://github.com/Gabry022003/NULL2/blob/main/snake.svg" width="5000" alt="SVG" />
-  generated with [Platane/snk](https://github.com/Platane/snk)
 </p>
+generated with -[Platane/snk](https://github.com/Platane/snk)
 
 
 
