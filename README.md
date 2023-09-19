@@ -15,15 +15,15 @@
   </a>
 </p>
 
-<!--Contatore
+Contatore
 <div align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gabry022003&color=0&icon=2&countColorcountColor&countBG=%23FF0000&theme=radical" alt="VisitCount"></a>
-</div> -->
-
+</div>
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabry022003.Gabry022003&"  />
 </div>
-
+ -->
 
 
 <!-- PRIMOTEST
