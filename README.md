@@ -130,6 +130,25 @@ I am always looking for new challenges and exciting projects. If you need an exp
 <!-- <small>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></small> -->
 </p> 
 
+--- 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Gabry022003/">
+        <img src="https://avatars.githubusercontent.com/u/55774240?v=4?s=100" width="100px;" alt=""/>
+        <br />
+        <sub><b>Gabry022003 ᵖ⁺</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/Gabry022003/LearnCPP/commits?author=Gabry022003" title="Code">💻</a>
+      <a href="https://github.com/Gabry022003/LearnCPP/pulls?q=is%3Apr+reviewed-by%3AGabry022003" title="Reviewed Pull Requests">👀</a>
+      <a href="#projectManagement-Gabry022003" title="Project Management">📆</a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
