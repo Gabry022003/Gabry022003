@@ -138,13 +138,15 @@ I am always looking for new challenges and exciting projects. If you need an exp
       <a href="https://github.com/Gabry022003/">
         <img src="https://github.com/Gabry022003.png" width="100px;" alt=""/>
         <br />
-        <sub><b>Gabry022003 ᵖ⁺</b></sub>
+        <sub><b>Gabry022003</b></sub>
       </a>
+      
       <br />
       <a href="https://github.com/Gabry022003/LearnCPP/commits?author=Gabry022003" title="Code">💻</a>
       <a href="https://github.com/Gabry022003/LearnCPP/pulls?q=is%3Apr+reviewed-by%3AGabry022003" title="Reviewed Pull Requests">👀</a>
       <a href="#projectManagement-Gabry022003" title="Project Management">📆</a>
     </td>
+    
   </tr>
 </table>
 
