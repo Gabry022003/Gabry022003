@@ -136,7 +136,7 @@ I am always looking for new challenges and exciting projects. If you need an exp
   <tr>
     <td align="center">
       <a href="https://github.com/Gabry022003/">
-        <img src="https://avatars.githubusercontent.com/u/55774240?v=4?s=100" width="100px;" alt=""/>
+        <img src="https://github.com/Gabry022003.png" width="100px;" alt=""/>
         <br />
         <sub><b>Gabry022003 ᵖ⁺</b></sub>
       </a>
