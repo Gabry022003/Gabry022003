@@ -130,7 +130,7 @@ I am always looking for new challenges and exciting projects. If you need an exp
 <!-- <small>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></small> -->
 </p> 
 
-
+<!--
 <table>
   <tr>
     <td align="center">
@@ -147,6 +147,8 @@ I am always looking for new challenges and exciting projects. If you need an exp
     
   </tr>
 </table>
+
+-->
 
 
 
