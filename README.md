@@ -33,7 +33,7 @@
 
 ## Connect with Me 📟
 
-- 📫 You can reach me via email at [your.email@example.com].
+- 📫 You can reach me via email at [my.email@example.com].
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 - 🌐 Visit my personal website: [www.mywebsite.com](https://gabry022003.github.io/).
 
