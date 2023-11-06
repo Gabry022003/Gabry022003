@@ -22,7 +22,7 @@
 
 # Hi, I'm Gabriele! 👋
 
-  I'm a university student at UNICT (University of Catania) specializing in cybersecurity.
+  I'm a university student specializing in cybersecurity.
    Welcome to my GitHub profile! 🚀
 
 ## About Me
