@@ -1,38 +1,9 @@
-<!--<a href="https://app.daily.dev/Gabry022003"><img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/></a>-->
-<!-- ![testo alternativo dell'immagine](https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2023/01/crittografia.jpg)-->
 
-<!--Allineamento Card-->
-<!-- <p align="center">
-  <img src="https://github.com/Gabry022003/Program1/blob/main/Vecchi_Programmi/Home_Page(Git)/ee.gif" width="400" alt="Esempio di GIF" />
-  <a href="https://app.daily.dev/Gabry022003">
-    <img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=g7s" width="400" alt="Gabriele's Dev Card" />
-  </a>
-</p>
--->
 <p align="center">
 <a href="https://app.daily.dev/Gabry022003">
   <img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=g7s" width="400" alt="Gabriele's Dev Card"/></a>
   </a>
 </p>
-
-<!--
-Contatore
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Gabry022003&color=0&icon=2&countColorcountColor&countBG=%23FF0000&theme=radical" alt="VisitCount"></a>
-</div>
-
- -->
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabry022003.Gabry022003&"  />
-</div>
-
-
-<!-- PRIMOTEST
-<a href="https://app.daily.dev/Gabry022003">
-<img src="https://api.daily.dev/devcards/e1f94e03373f4ea4833188d91fc4c35c.png?r=qqp" width="400" alt="Gabriele's Dev Card"/>
--->
 
 <p align="center">
   <a href="https://www.hackthebox.eu/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/></a>
@@ -47,113 +18,58 @@ Contatore
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </p>
 
+---
 
-# Gabriele ↣ Ethical Hacker, Developer Σ CTF Enthusiast
+# Hi, I'm Gabriele! 👋
 
-Ciao, sono Gabriele, un hacker etico, sviluppatore e appassionato di CTF. Ho partecipato a diverse competizioni di hacking, ho seguito il training CyberChallenge organizzata dal CINI Lab, mettendo alla prova le mie abilità e acquisendo una grande conoscenza delle tecnologie, dei protocolli e dei linguaggi di programmazione.
+  I'm a university student at UNICT (University of Catania) specializing in cybersecurity.
+   Welcome to my GitHub profile! 🚀
 
-Ho una vasta esperienza in diverse tecnologie, come il web development, lo sviluppo mobile. In particolare, ho una grande conoscenza di Python, Java, SQL, C, C++ e Docker.
+## About Me
 
-La mia passione per la sicurezza informatica mi ha spinto a partecipare alle CTF, dove ho avuto modo di mettere alla prova le mie abilità e di apprendere nuove tecniche per identificare e risolvere le vulnerabilità dei sistemi informatici.
+- 📚 I'm currently pursuing my degree in computer Science.
+- 💻 I'm passionate about all things related to computer security.
+- 🌐 I love exploring new technologies and staying updated with the latest trends.
 
-Sono sempre alla ricerca di nuove sfide e di progetti stimolanti. Se hai bisogno di un esperto in sicurezza informatica, di un professionista sviluppatore o di un appassionato di CTF per il tuo progetto, non esitare a contattarmi. Sono disponibile per consulenze, collaborazioni e progetti a lungo termine.
+## Connect with Me 📟
 
-Hi, I'm Gabriele, an ethical hacker, developer, and CTF enthusiast. I have participated in various hacking competitions,i followed the CyberChallenge training organized by CINI Lab, testing my skills and acquiring extensive knowledge of technologies, protocols, and programming languages.
+- 📫 You can reach me via email at [your.email@example.com].
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- 🌐 Visit my personal website: [www.mywebsite.com](https://gabry022003.github.io/).
 
-I have broad experience in different technologies such as web development and mobile development. In particular, I have extensive knowledge of Python, Java, SQL, C, C++, and Docker.
+## Interests 👨‍💻
 
-My passion for computer security has driven me to participate in CTFs, where I have had the opportunity to test my skills and learn new techniques for identifying and resolving vulnerabilities in computer systems.
+- 🛡️ Cybersecurity
+- 🌐 Network Security
+- 📜 Cryptography
+- 🔒 Web Security
+- 🤖 Ethical Hacking
+- 📱 Mobile Security
+- 🏆 CTF
 
-I am always looking for new challenges and exciting projects. If you need an expert in computer security, a professional developer, or a CTF enthusiast for your project, feel free to contact me. I am available for consultations, collaborations, and long-term projects.
+## Projects 🔥
 
-## Interessi 👨‍💻
+I'm currently working on various projects, with a focus on web security. Check out my repositories to see what I'm up to!
 
-- Hacking Etico: Ethical Hacking
-- Sicurezza Informatica: Computer Security
-- Sviluppo Web: Web Development
-- Programmazione Competitiva: Competitive Programming
-- CTF: Capture The Flag
+## Skills 🚀
 
-## Contatti 📟
-
-- [Profilo GitHub](https://github.com/Gabry022003)
-- [Sito Web](https://my-site)
+- 💼 Proficient in Python, C/C++, and scripting for ctf.
+- 🔐 Familiar with penetration testing tools like Metasploit and Wireshark.
+- 🌐 Knowledgeable in networking protocols, web security.
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h3 align="left">Languages and Tools 💻</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+<h2 align="center">GitHub Trophies 🏆</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a>
 </p>
 
 ---
+## Let's Collaborate 🤝
 
-<h2 align="center"> 🔥 GitHub Streak</h2>
-
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabry022003&theme=radical" alt="GitHub Streak" /></a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabry022003&show_icons=true&locale=en&theme=radical" alt="gabry022003" />
-</div>
-
----
-
-<h2 align="center">💻 Tech Stack: </h2> 
-<!--Other Knowledge -->
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
----
-<h2 align="center"> 🎞️ Gif: </h2>
-
-<p align="center">
-  <img src="https://github.com/Gabry022003/NULL/blob/main/ee.gif" width="180" alt="GIF" />
-</p>
-
----
-<h2 align="center"> 🤯 Dev Meme: </h2>
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
-</p>
-
----
-<h2 align="center"> 🐍 Snake: </h2>
- <p align="center">
-  <img src="https://github.com/Gabry022003/NULL2/blob/main/snake.svg" width="5000" alt="SVG" />
-<!-- <small>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></small> -->
-</p> 
-
-<!--
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Gabry022003/">
-        <img src="https://github.com/Gabry022003.png" width="100px;" alt=""/>
-        <br />
-        <sub><b>Gabry022003</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/Gabry022003/Program1/commits?author=Gabry022003" title="Code">💻</a>
-      <a href="https://github.com/Gabry022003/Program1/pulls?q=is%3Apr+reviewed-by%3AGabry022003" title="Reviewed Pull Requests">👀</a>
-      <a href="#projectManagement-Gabry022003" title="Project Management">📆</a>
-    </td>
-    
-  </tr>
-</table>
-
--->
-
-
-
-
-
-
-
-
+I'm always open to collaboration and learning from fellow enthusiasts in the cybersecurity communities. Feel free to reach out if you'd like to work on a project together or discuss the latest developments in these fields.
