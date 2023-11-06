@@ -25,7 +25,7 @@
   I'm a university student specializing in cybersecurity.
    Welcome to my GitHub profile! 🚀
 
-## About Me
+## About Me 💫
 
 - 📚 I'm currently pursuing my degree in computer Science.
 - 💻 I'm passionate about all things related to computer security.
