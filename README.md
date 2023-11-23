@@ -40,7 +40,7 @@
 
 - 📫 You can reach me via email at [my.email@example.com].
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-- 🌐 Visit my personal website:[www.Gabry.com](https://gabry022003.github.io/).
+- 🌐 Visit my personal website: [www.Gabry.com](https://gabry022003.github.io/).
 
 ## Interests 👨‍💻
 
