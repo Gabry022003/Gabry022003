@@ -129,7 +129,8 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 
 <div align="center">
 
-[![Cryptura](https://img.shields.io/badge/Cryptura-0f0f0f?style=for-the-badge&logo=github&logoColor=green)](https://github.com/yourusername/Cryptura)
+[![Repo](https://img.shields.io/badge/🔗_Repository-View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/cryptura)
+[![Demo](https://img.shields.io/badge/🎬_Live%20Demo-Try%20It-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io/cryptura-demo)
 
 </div>
 
@@ -153,7 +154,8 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 
 <div align="center">
 
-[![CAspoof](https://img.shields.io/badge/CAspoof-0f0f0f?style=for-the-badge&logo=github&logoColor=green)](https://github.com/yourusername/CAspoof)
+[![Repo](https://img.shields.io/badge/🔗_Repository-View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/caspoof)
+[![Docs](https://img.shields.io/badge/📚_Documentation-Read%20More-764ba2?style=for-the-badge&logo=gitbook&logoColor=white)](https://yourusername.github.io/caspoof-docs)
 
 </div>
 
@@ -179,7 +181,8 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 
 <div align="center">
 
-[![CryptoLab](https://img.shields.io/badge/CryptoLab-0f0f0f?style=for-the-badge&logo=github&logoColor=green)](https://github.com/yourusername/CryptoLab)
+[![Repo](https://img.shields.io/badge/🔗_Repository-View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/cryptolab)
+[![Benchmark](https://img.shields.io/badge/⚡_Benchmarks-View%20Results-764ba2?style=for-the-badge&logo=speedtest&logoColor=white)](https://yourusername.github.io/cryptolab-benchmarks)
 
 </div>
 
@@ -202,8 +205,9 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 > 🛡️ **Summary:** Comprehensive collection of scripts, tools, and writeups from various Capture The Flag competitions. Includes solutions for cryptographic challenges, reverse engineerin puzzles, and web exploitation scenarios.
 
 <div align="center">
-  
-[![CTF Arsenal](https://img.shields.io/badge/CTF_Arsenal-0f0f0f?style=for-the-badge&logo=github&logoColor=green)](https://github.com/yourusername/CTF_Arsenal)
+
+[![Repo](https://img.shields.io/badge/🔗_Repository-View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/webvuln-scanner)
+[![Release](https://img.shields.io/badge/📦_Latest%20Release-v2.1.0-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/webvuln-scanner/releases)
 
 </div>
 
