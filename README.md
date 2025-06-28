@@ -1,55 +1,239 @@
-<div align="center">
-  <div style="backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.1); border-radius: 20px; padding: 20px 40px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-    <img src="/assets/icon.jpg" width="140" style="border-radius: 50%; border: 3px solid #ffffff33;" />
-    <h2 style="color: #fff; margin-top: 10px;">Gabriele</h2>
-    <p style="color: #ccc;">Cybersecurity Student • Offensive Security</p>
-  </div>
+<div align="center"> 
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Computer%20Science%20Student&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Enthusiast&descAlignY=58&descAlign=50&descSize=16)
+
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabry022003.Gabry022003&"  />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=667eea&center=true&vCenter=true&width=700&lines=🛡️+Gabriele;🔒+Cryptography+Enthusiast)](https://git.io/typing-svg)
+
 </div>
 
-## 🧠 Who Am I?
+<div align="center">
 
-- 🎓 I'm currently pursuing my degree in computer Science.
-- 🧑‍💻 I'm passionate about all things related to computer security.
-- 🌐 I love exploring new technologies and staying updated with the latest trends.
+[![GitHub followers](https://img.shields.io/github/followers/Gabry022003?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea&color=764ba2)](https://github.com/Gabry022003)
+[![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=667eea)](https://github.com/yourusername)
 
-## 💡Interests 
+</div>
 
-- 🛡️ Offensive Security & Penetration Testing  
-- 🔐 Cryptography & Web Security  
-- 🌐 Network Protocols & Infrastructure  
-- 💣 Binary Exploitation
-- 📱 Mobile & OSINT Techniques  
-- 🏆 CTF
+---
 
-## 📟 Connect with Me 
+## 🎯 About Me
 
-- 📫 You can reach me via email at [[my.email@example.com](mailto:my.email@example.com)].
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-- 🌐 Visit my personal website: [www.Gabry.com](https://gabry022003.github.io/).
+<img align="right" src="/assets/icon.jpg" width="400" alt="Cybersecurity Animation" />
 
-## ⚙️ Tech Stack & Tools
+I am a **Computer Science student** specializing in **Cybersecurity** with a passion for ethical hacking and digital security. Currently pursuing my degree while actively engaging in cybersecurity research, CTF competitions, and security tool development.
 
+### 🚀 Current Focus
+- 🎓 **Education**: Computer Science degree with cybersecurity specialization
+- 🔍 **Research**: Advanced penetration testing methodologies & zero-day research
+- 🛠️ **Development**: Security tools, automation scripts, and educational applications
+- 🏆 **Competitions**: Active participation in CTF events and bug bounty programs
+- 📚 **Learning**: Cloud security, AI/ML security, and emerging cyber threats
+- 🤝 **Community**: Contributing to open-source security projects
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 💻 Programming & Scripting Languages
+
+<div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,py,c,cpp,git,github,docker,githubactions,rust,kali,kubernetes,cmake,postgres,mysql,mongodb,php,rabbitmq,java,js,ts,angular,spring,lua" />
   </a>
 </p>
 
+</div>
 
-## 🔥Projects 
 
-I'm currently working on various projects, with a focus on web security. Check out my repositories to see what I'm up to!
+### 🛡️ Cybersecurity Domains
 
-## 🏆GitHub Trophies 
+<table align="center">
+<tr>
+<td align="center" width="180">
+<img src="/assets/penetration-testing.svg" alt="Penetration Testing"/>
+<br><strong>Penetration Testing</strong>
+<br><sub>Web Apps, Networks, Mobile</sub>
+</td>
+<td align="center" width="180">
+<img src="/assets/network-security.svg" alt="Network Security"/>
+<br><strong>Network Security</strong>
+<br><sub>Protocol Analysis & IDS/IPS</sub>
+</td>
+<td align="center" width="180">
+<img src="/assets/cryptography.svg" alt="Cryptography"/>
+<br><strong>Cryptography</strong>
+<br><sub>Encryption & PKI</sub>
+</td>
+<td align="center" width="180">
+<img src="/assets/web-security.svg" alt="Web Security"/>
+<br><strong>Web Security</strong>
+<br><sub>OWASP Top 10 & SAST</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="180">
+<img src="/assets/digital-forensics.svg" alt="Digital Forensics"/>
+<br><strong>Digital Forensics</strong>
+<br><sub>Incident Response & Analysis</sub>
+</td>
+<td align="center" width="180">
+<img src="/assets/cloud-security.svg" alt="Cloud Security"/>
+<br><strong>Cloud Security</strong>
+<br><sub>AWS, Azure, GCP</sub>
+</td>
+<td align="center" width="180">
+<img src="/assets/ctf-competitions.svg" alt="CTF"/>
+<br><strong>CTF Competitions</strong>
+<br><sub>Jeopardy & Attack-Defense</sub>
+</td>
+<td align="center" width="180">
+<img src="/assets/mobile-security.svg" alt="Mobile Security"/>
+<br><strong>Mobile Security</strong>
+<br><sub>iOS & Android Testing</sub>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gabry022003&theme=radical" alt="GitHub Trophies" /></a>
-</p>
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 🔐 **Project Showcase**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔑 **Cryptura**
+*Steganography & Cryptography Suite*
+
+```diff
++ 🔒 AES-256 encryption with secure key derivation
++ 🖼️ LSB steganography with payload optimization
++ 🛡️ Multi-layer security with password authentication
++ 📱 Cross-platform GUI with modern design
++ 🔍 Steganalysis resistance techniques
+```
+
+**Tech Stack:** `Python` `Steganography` `Algorithms` `Mathematics` `Image Processing`
+
+> 💡 **Summary:** Educational steganography application enabling users to hide and reveal messages within images using steganographic techniques.Includes optional password-based encryption for enhanced message confidentiality.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🔗_Repository-View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/cryptura)
+[![Demo](https://img.shields.io/badge/🎬_Live%20Demo-Try%20It-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io/cryptura-demo)
+
+</div>
+
+</td>
+<td width="50%">
+
+### 🌐 **CAspoof**
+*Certificate Authority Security*
+
+```diff
++ 🔗 Complete PKI infrastructure simulation
++ 🎯 SSL/TLS certificate chain validation
++ 🔐 Custom CA creation and management
++ 🚨 Certificate pinning bypass techniques
++ 📊 Trust relationship visualization
+```
+
+**Tech Stack:** `Python` `Bash` `SSL/TLS` `Docker` `PKI` `OpenSSL`
+
+> 🎯 **Summary:**  Educational project showcasing how to configure a system to trust SSL/TLS certificates issued by a custom Certificate Authority (CA). Designed in a controlled environment to explore the principles of Publi Key Infrastructure (PKI) and the digital certificate trust chain.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🔗_Repository-View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/caspoof)
+[![Docs](https://img.shields.io/badge/📚_Documentation-Read%20More-764ba2?style=for-the-badge&logo=gitbook&logoColor=white)](https://yourusername.github.io/caspoof-docs)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📜 **CryptoLab**
+*Low-Level Cryptographic Implementation Suite*
+
+```diff
++ 🔢 RSA encryption with prime generation
++ 🔑 Elliptic Curve Cryptography (ECC)
++ ⚡ Optimized big integer arithmetic
++ 🛡️ Side-channel attack resistance
++ 📈 Performance benchmarking suite
+```
+
+**Tech Stack:** `C` `Rust` `Cryptography` `Algorithms` `Mathematics`
+
+> 🚀 **Summary:**  Educational implementation of asymmetric encryption, demonstrating secure message exchange through public/private key cryptography. Developed to deepen understanding of cryptographic primitives, key management, and secure programming practices in a systems-level language.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🔗_Repository-View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/cryptolab)
+[![Benchmark](https://img.shields.io/badge/⚡_Benchmarks-View%20Results-764ba2?style=for-the-badge&logo=speedtest&logoColor=white)](https://yourusername.github.io/cryptolab-benchmarks)
+
+</div>
+
+</td>
+<td width="50%">
+
+### 🏆 **CTF Arsenal**
+*Automated Web Application Security Scanner*
+
+```diff
++ 🎯 OWASP Top 10 vulnerability detection
++ 🔍 Custom payload generation and fuzzing
++ 📊 Comprehensive reporting with PoC
++ 🚀 Multi-threaded scanning engine
++ 🔗 CI/CD pipeline integration
+```
+
+**Tech Stack:** `Python` `C/C++` `Bash`
+
+> 🛡️ **Summary:** Comprehensive collection of scripts, tools, and writeups from various Capture The Flag competitions. Includes solutions for cryptographic challenges, reverse engineerin puzzles, and web exploitation scenarios.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🔗_Repository-View%20Code-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/webvuln-scanner)
+[![Release](https://img.shields.io/badge/📦_Latest%20Release-v2.1.0-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/webvuln-scanner/releases)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabry022003&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+
+</div>
+
+---
 
 ## 🤝 Let's Collaborate 
 
-I'm always open to collaboration and learning from fellow enthusiasts in the cybersecurity communities. Feel free to reach out if you'd like to work on a project together or discuss the latest developments in these fields.
+I'm always open to collaboration and learning from fellow enthusiasts in the cybersecurity communities. Feel free to reach out if you'd like to work on a project together or discuss the latest developments in these fields..
+
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling)
+
+</div>
