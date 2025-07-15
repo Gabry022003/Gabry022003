@@ -42,7 +42,7 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,py,c,cpp,git,github,docker,githubactions,rust,kali,kubernetes,cmake,postgres,mysql,mongodb,php,rabbitmq,java,js,ts,angular,spring,lua" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,py,c,cpp,git,github,docker,githubactions,rust,kali,kubernetes,cmake,postgres,mysql,mongodb,php,rabbitmq,java,js,ts,angular,spring,lua&perline=8" />
   </a>
 </p>
 
