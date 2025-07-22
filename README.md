@@ -186,24 +186,26 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 </td>
 <td width="50%">
 
-### 🏆 **CTF Arsenal**
-*Automated Web Application Security Scanner*
+### 🏆 **Redis Proxy System**
+*High-Performance Intelligent HTTP Proxy with Dual Environment Support*
 
 ```diff
-+ 🎯 OWASP Top 10 vulnerability detection
-+ 🔍 Custom payload generation and fuzzing
-+ 📊 Comprehensive reporting with PoC
-+ 🚀 Multi-threaded scanning engine
-+ 🔗 CI/CD pipeline integration
++ 🦀 Rust-powered proxy with 10k+ req/sec throughput
++ ⚡ Dual environment support - Test (mock) & Production (Redis)
++ 🎛️ Smart load balancing with multiple algorithms
++ 📊 Real-time admin dashboard with React & Tailwind CSS
++ 🔄 Hot rule reloading without service interruption
++ 🐳 Full Docker containerization with security hardening
++ 🚀 Auto environment detection via port-based switching
 ```
 
-**Tech Stack:** `Python` `C/C++` `Bash`
+**Tech Stack:** `Rust` `Python FastAPI` `React` `Redis` `Docker` `Nginx`
 
-> 🛡️ **Summary:** Comprehensive collection of scripts, tools, and writeups from various Capture The Flag competitions. Includes solutions for cryptographic challenges, reverse engineerin puzzles, and web exploitation scenarios.
+> 🛡️ **Summary:** Enterprise-grade HTTP proxy system designed for microservices, API gateways, and traffic management. Features intelligent routing, rate limiting, comprehensive monitoring, and a modern web interface for rule management. Includes both test environment (mock data) and production environment (Redis persistence) with seamless switching capabilities.
 
 <div align="center">
   
-[![CTF Arsenal](https://img.shields.io/badge/CTF_Arsenal-0f0f0f?style=for-the-badge&logo=github&logoColor=green)](https://github.com/yourusername/CTF_Arsenal)
+[![Redis Proxy System](https://img.shields.io/badge/Redis_Proxy_System-0f0f0f?style=for-the-badge&logo=github&logoColor=green)](https://github.com/yourusername/Redis_Proxy_System)
 
 </div>
 
