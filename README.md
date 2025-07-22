@@ -187,11 +187,11 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 <td width="50%">
 
 ### 🏆 **Redis Proxy System**
-*High-Performance Intelligent HTTP Proxy with Dual Environment Support*
+*High-Performance Intelligent HTTP Proxy*
 
 ```diff
 + 🦀 Rust-powered proxy with 10k+ req/sec throughput
-+ ⚡ Dual environment support - Test (mock) & Production (Redis)
++ ⚡ Dual environment support - Test & Production
 + 🎛️ Smart load balancing with multiple algorithms
 + 📊 Real-time admin dashboard with React & Tailwind CSS
 + 🔄 Hot rule reloading without service interruption
