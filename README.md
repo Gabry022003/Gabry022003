@@ -186,7 +186,7 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 </td>
 <td width="50%">
 
-### 🏆 **Redis Proxy System**
+### 🏆 **LayerXProxy System**
 *High-Performance Intelligent HTTP Proxy*
 
 ```diff
@@ -205,7 +205,7 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 
 <div align="center">
   
-[![Redis Proxy System](https://img.shields.io/badge/Redis_Proxy_System-0f0f0f?style=for-the-badge&logo=github&logoColor=green)](https://github.com/yourusername/Redis_Proxy_System)
+[![LayerXProxy System](https://img.shields.io/badge/LayerXProxy_System-0f0f0f?style=for-the-badge&logo=github&logoColor=green)](https://github.com/yourusername/LayerXProxy_System)
 
 </div>
 
