@@ -214,7 +214,7 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 </table>
 
 ---
-<!--
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -224,7 +224,6 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 </div>
 
 ---
--->
 
 ## 🤝 Let's Collaborate 
 
