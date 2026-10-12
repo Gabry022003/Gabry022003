@@ -215,6 +215,7 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 
 ---
 
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -222,7 +223,7 @@ I am a **Computer Science student** specializing in **Cybersecurity** with a pas
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabry022003&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
 </div>
-
+-->
 ---
 
 ## 🤝 Let's Collaborate 
